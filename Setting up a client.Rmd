@@ -1,0 +1,76 @@
+---
+title: "Setting up a client"
+
+---
+Do you have a new potential client? Set up their profile so we have all the info in one place.
+
+
+
+**Client profile = task in ClickUp.**
+
+Keep in mind the task will house the client’s profile & the actions on it before the client is moved to ListenLocal/Data Observatory/Other project.
+
+  1. Open the Calendar view (you can start from any other view, Calendar is just the most visual one when scheduling an interview)
+  
+  ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_1.png)
+  
+  
+  2. Create a new task = client profile.
+  
+  ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_2.png)
+  
+  3. Click it open & Edit the task
+  
+      ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_3.png)
+1. Status – to be changed based on the current situation. Start status is **1st interview to be scheduled**.
+2. Assignees – Account manager, responsible for the client (Daniel or Istvan)
+3. Priority
+4. General settings – you most probably won’t need this, but feel free to check
+5. Time Tracked – add time spend on the client. Use labels to mark what exactly did you do during that time.
+6. Calendar – schedule the 1st interview
+7. Watchers – you can add watchers to the client (e.g. you can make Daniel the Assignee/Account manager and Istvan a watcher, or vice versa)
+8. Task name = CLIENT NAME
+9. Fields – fill in as per below, fill in as much as you know
+
+
+**Field**            | **What to say?**
+------------- | ------------
+00_Organization name |
+01_Contact person – name |
+02_Contact person – surname |
+03_Contact person – email |
+04_Contact person – phone number |
+05_1st interviewer(s) |
+06_Online meeting link |
+07_Website – Client |
+08_Duration 1st interview (min) |
+09_Next Step |
+10_Notes & Action |
+11_DATE – First contact |
+12_DATE – 1st interview |
+13_DATE – First action |
+14_BMF_Source |
+15_BMF_Country |
+16_BMF_City |
+17_BMF_Company website |
+18_BMF_Beachhead Market Name | Country/industry/segment, as specific as possible!
+19_BMF_Pain_labels | What is the problem?
+20_BMF_Pain - How big is the pain? (1 low, 5 high) | How big is the problem, how high is the pain in the beachhead market?
+21_BMF_ Solution Fit_labels | Which one of our solutions would help here?
+22_BMF_Solution Fit - How well does our solution help? (1 bad, 5 perfect)	| How well does your solution solve the pain?
+23_BMF_Time to market (1 slow, 5 fast) | How fast can you go to market?
+24_BMF_Entry Barriers - description |	What are the barriers?
+25_BMF_Entry Barriers (1 high, 5 low)	| How high are the entry barriers? (Competition, high switching costs etc.)
+26_BMF_Strateg & Ref. Value_description	| Do you rule out other markets? How well is the BHM connected to your end market
+27_BMF_Available Budget	| How high is the customers budget?
+28_BMF_Personal connection (1 low, 5 high) | Is the market consistent with the values, passions and goals of the founding team?
+29_BMF_Total (Max 35) |
+
+
+*Congratulations!* You have now created a client’s profile and can schedule the first interview!
+
+You can add *check lists* (e.g. review the Solution fit & assign to Daniel) or *subtasks* (e.g. make & send budget proposal) and assign them.
+
+You can add attachments to the tasks.
+
+

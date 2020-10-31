@@ -1,0 +1,13 @@
+---
+title: "Boards – Views"
+---
+Make sure to [set your Task overview properly](https://docs.clickup.com/en/articles/1595475-calendar-view)
+
+=> make the subtasks visible
+
+![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/board – views.png)
+ 
+1. List view
+2. Select Show subtask parent names
+3. Select Show as separate tasks
+

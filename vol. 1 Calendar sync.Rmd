@@ -1,0 +1,29 @@
+---
+title: "External Calendar sync"
+---
+Link your ClickUp to your Calendar. **How**?
+
+[Google Calendar sync](docs.clickup.com/en/articles/1548755-google-calendar-syncing)
+
+[Calendar syncing with Outlook, Apple Calendar, mobile and more](docs.clickup.com/en/articles/2222732-calendar-syncing-with-outlook-apple-calendar-mobile-and-more)
+
+This is a **ONE-WAY INTEGRATION**:
+ClickUp ¬> Settings ¬> Calendar
+
+=> ClickUp creates a copy of its event in your Google Calendar/Apple Calendar/Outlook calendar (let’s call it all GC here):
+
+  - GC event DOES contain: Event name, timing, where in ClickUp does it come from
+  
+  - GC event DOES NOT contain: task fields, assignees
+
+**Remember:**
+-	ClickUp event does NOT send invites to the attendees automatically
+
+-	GC event does NOT send invites to the guests (attendees) automatically
+
+-	After the ClickUp event is created & sent to GC via integration:
+      
+      - edits in ClickUp event WILL be syncted to GC
+      
+      - edits in GC event WILL NOT be syncted to ClickUp
+

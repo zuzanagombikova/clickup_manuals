@@ -1,0 +1,6 @@
+---
+title: "ClickUp - Integrations"
+
+---
+ClickUp has many **integrations** options, see Settings -> Integrations in your profile
+Fancy more integrations? Try [zapier.com](zapier.com)
