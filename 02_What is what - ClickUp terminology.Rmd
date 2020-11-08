@@ -1,0 +1,19 @@
+---
+title: "What is what - ClickUp terminology"
+---
+# What is what - ClickUp terminology
+
+* **Space** - a project the team is working on (e.g. Market Research, ListenLocal).
+* **List** - a list of tasks within a Space (e.g. 100 clients, ListenLocal - Clients). You can only access lists you were added to by your PM.
+* **Task** - an actual thing to do. For Reprex purposes, we use tasks as clients. Task can also be just a thing to do. Tasks can be linked to each other and/or depend on each other (see **Dependencies**)
+* **Subtask** - a to-do list under a task (e.g. send a proposal to the client). Both Tasks & Subtasks can be assigned to users.
+* **Custom field** - each tasks/subtask contains a set of custom fields. Need an extra field? Let your PM know.
+* **Dependency** - a possibility to start working on a task/subtask can be conditioned by completion of another task (e.g. First we need to contact the client before we can create a tailor-made proposal for them). Task/Subtasks can be dependent on each other, and you have a right to set it up.
+* **Linked tasks/subtasks** - tasks/subtasks are linked, but do not depend on each other.
+* **Time Tracked** - track the time spent on different actions on the task/subtask. You can add & create labels to mark what exactly you did (e.g. 45 min 1st interview). This will help us analyze the time use and pick up actions that may need little time, but yield big benefits (e.g. you spend 1 hr preparing an overview, and based on that the client decided we are the right guys).
+* **Start/End Date** - Space: Market Research - this is the time of the first interview. After the task/client moves to Space: ListenLocal - Start/End Date remains empty. Subtasks - use Start/End Date to schedule the subtask -> they will be displayed in the calendar.
+* **Watcher** - for people that do not work on the task, but want to be notified on the activity, e.g. if you supervise a task, or simply want to know what is going on with a client you onboarded.
+* **Notification** - set it up in your profile. As *minimum* you should set it up to get notifications from tasks/subtasks you are assigned to (e.g. comments and updated), newly assigned tasks/subtasks, tasks/subtasks unassigned off you. It is recommended to start with all the default notifications on, and remove them later on when you see they are useless to you.  
+![profile icon](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/profile icon.png)
+![reprex team_3](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/reprex team_3.png)
+

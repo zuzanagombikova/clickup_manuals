@@ -6,34 +6,29 @@ Do you have a new potential client? Set up their profile so we have all the info
 
 
 
-**Client profile = task in ClickUp.**
+## Client profile = a task in ClickUp
 
 Keep in mind the task will house the client’s profile & the actions on it before the client is moved to ListenLocal/Data Observatory/Other project.
-
-  1. Open the Calendar view (you can start from any other view, Calendar is just the most visual one when scheduling an interview)
   
-  ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_1.png)
+  | 
+------- | ------------
+**Open the Calendar view** | ![calendar view](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_1.png)
+Calendar is just the most visual one when scheduling an interview. If you don't want to schedule an interview yet, start from the *List view*. |
+**Create a new task = client profile** | ![create a new task](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_2.png)
+**Click it open & Edit the task** | ![edit task](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_3.png)
   
-  
-  2. Create a new task = client profile.
-  
-  ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_2.png)
-  
-  3. Click it open & Edit the task
-  
-      ![](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/Setting up a client_3.png)
-1. Status – to be changed based on the current situation. Start status is **1st interview to be scheduled**.
-2. Assignees – Account manager, responsible for the client (Daniel or Istvan)
-3. Priority
-4. General settings – you most probably won’t need this, but feel free to check
-5. Time Tracked – add time spend on the client. Use labels to mark what exactly did you do during that time.
-6. Calendar – schedule the 1st interview
-7. Watchers – you can add watchers to the client (e.g. you can make Daniel the Assignee/Account manager and Istvan a watcher, or vice versa)
-8. Task name = CLIENT NAME
-9. Fields – fill in as per below, fill in as much as you know
-
-
-**Field**            | **What to say?**
+1. **Status** – to be changed based on the current situation. Default status is **1st interview to be scheduled**.
+2. **Assignees** – Account manager, responsible for the client (Daniel or Istvan)
+3. **Priority**
+4. **General Settings** – you most probably won’t need this, but feel free to check
+5. **Time Tracked** – add time spend on the client. Use labels to mark what exactly did you do during that time.
+6. **Calendar** – schedule the 1st interview
+7. **Watchers** – you can add watchers to the client (e.g. you can make Daniel the Assignee/Account manager and Istvan a watcher, or vice versa)
+8. **Task Name** = CLIENT NAME
+9. **Custom Fields** – fill in as per below, fill in as much as you know  
+   
+    
+**Custom Field**            | **What to say?**
 ------------- | ------------
 00_Organization name |
 01_Contact person – name |
@@ -65,9 +60,11 @@ Keep in mind the task will house the client’s profile & the actions on it befo
 27_BMF_Available Budget	| How high is the customers budget?
 28_BMF_Personal connection (1 low, 5 high) | Is the market consistent with the values, passions and goals of the founding team?
 29_BMF_Total (Max 35) |
-
-
-*Congratulations!* You have now created a client’s profile and can schedule the first interview!
+30_Reason of Loss | Why did we loose the client? Explain in details.  
+  
+  
+### Congratulations!  
+You have now created a client’s profile and can schedule the first interview!
 
 You can add *check lists* (e.g. review the Solution fit & assign to Daniel) or *subtasks* (e.g. make & send budget proposal) and assign them.
 

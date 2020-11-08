@@ -1,0 +1,18 @@
+---
+title: "How to work in ClickUp - Reprex team"
+subtitle: ClickUp workflows as used by Reprex team
+---
+### Make sure ALL the information you have are IN the tasks/subtasks.  
+The team must be able to work even in case you are temporarily unavailable or decided to replant Amazonas or to restore Siberian tundra and "forgot" take your phone with you.  
+
+If you don't know how to use ClickUp on a regular user level, please check [ClickUp docs](https://docs.clickup.com/en/).
+You can also watch the tutorial videos available on [YouTube](https://www.youtube.com/channel/UCJC7egHqghye211WgTuXMAw/) or directly from your profile.
+
+![profile icon](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/profile icon.png)
+![reprex team_1](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/reprex team_1.png)
+![reprex team_2](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/reprex team_2.png)
+
+  
+  
+Please keep in mind that if you are **a guest user**, not all funcionalities are available to you. Shall you need to update anything your user rights won't suffice for, please reach out to Zuzana (add a comment in a task mentioning @Zuzana Gombikova, use keybase: @zuzanagombikova, or email: zuzanagombikova@dataobservatory.eu).
+

@@ -1,0 +1,63 @@
+---
+title: "Spaces in Reprex"
+---
+# Market Research
+
+This is where everything starts.
+All new clients are first set up as tasks in Market Research Space.  
+  
+**The tasks = client profiles must contain all the information we have on the client.**  
+
+  
+For more details on how to create a task, see [Setting up a client]().  
+  
+Once the task/client is created, you can:  
+  
+- [Comment](https://docs.clickup.com/en/articles/3497985-what-comments-can-do)  
+- Assign to other team members, remove yourself  
+- Create check list or add an existing Check list template & assign to other team members or yourself  
+- Create a subtask & assign to other team members or yourself  
+- Fill in custom fields, update timing, add time to time tracker ...  
+- Add files/attachments  
+- Link the task to other tasks and/or add [dependencies](https://docs.clickup.com/en/articles/1687570-task-dependencies)  
+- Modify **status**  
+
+## Status  
+There are multiple statuses available, and on request, we can make more. Shall you need more, use Comment section in the task (mention @Zuzana Gombikova) to place your request.  
+  
+Existing statuses:  
+![statuses](/Users/Susana/Documents/dani_reka_collaboration/clickup/Manuals/pics/statuses 2020-11-8.png)  
+  
+  
+  
+  
+  **Status**  | **Meaning**
+----- | -----------
+1ST INTER TO BE SCHEDULED | Client profile created, 1st interview to be scheduled
+1ST INTERVIEW SCHEDULED | 1st interview scheduled. MUST appear in the calendar
+1ST INTERVIEW DONE | Right after the 1st interview, is still assigned to the interviewer(s)
+TO BE REVIEWED BY D/I | The interviewer(s)' work in done, the situation needs to be assessed by Daniel or Istvan. If you know which one of them will review, you can assign. Otherwise leave unassigned, they will pick up.
+ACTION(S) NEEDED |  Action from Reprex needed. Task must contain info on WHAT action is needed - in a form of a subtask or a checklist. Assign to who ever is to perform the action.
+ACTION NEEDED FROM CLIENT |  Action from the client is needed. Task must contain info on WHAT action is needed - in a form of a subtask or a checklist. Assign to who ever is to keep an eye on that.
+REVIEWED BY DANIEL | Daniel has checked the task. He will keep this assigned to himself until he takes the final decision to move to one of the projects.
+REVIEWED BY ISTVAN | Istvan has checked the task. He will keep this assigned to himself until he takes the final decision to move to one of the projects.
+SUITABLE-> LISTEN LOCAL |  Daniel or Istvan decided this client is suitable for ListenLocal project. The onboardning process is done. They will keep the task assigned to themselves.
+SUITABLE-> DATAOBSERVATORY | Daniel or Istvan decided this client is suitable for Data Observatory project. The onboardning process is done. They will keep the task assigned to themselves.
+SUITABLE-> MORE | Daniel or Istvan decided this client is suitable for more than one project. The onboarding process is done. They will keep the task assigned to themselves.
+ON HOLD | For any reason, the client is on hold, but not lost yet.
+CLONED TO DATA OBSERVATORY | Zuzana has cloned the task/client to Data Observatory Space, linked the cloned task with the original one & assigned the last assignees from Market Research Space. The task in Market Research is considered DONE & will remain as client's profile. Shall the task be deemed SUITABLE -> MORE, she will clone to both spaces & link them all together.
+CLONED TO LISTEN LOCAL | Zuzana has cloned the task/client to ListenLocal Space, linked the cloned task with the original one & assigned the last assignees from Market Research Space. The task in Market Research is considered DONE & will remain as client's profile. Shall the task be deemed SUITABLE -> MORE, she will clone to both spaces & link them all together.
+DEAD END/WE LOST THIS ONE | Lost client, for whatever reason. Make sure to state the reason in *Custom fields - 30_Reason of Loss*
+  
+  
+  
+
+## Assign a colleague
+Your job on the task/subtask is done. What to do next? **Get rid of the task on your list.**  
+  
+**1. You know who is next?** Make sure the **status** is set correctly, all data are filled, subtasks created, information transferred => *Assign a colleague & remove yourself*. They will get a notification and can pick up the task/subtask  
+  
+**2. You don't know who is next to work on the task?** Make sure the **status** is set correctly, all data are filled, subtasks created, information transferred => *Remove yourself and leave the task/subtask unassigned*.
+
+
+
